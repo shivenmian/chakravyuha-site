@@ -1,0 +1,6 @@
+
+<h4>Level 9</h4>
+<br>
+After the wedding, he opened his one eye and saw that the boxer had already left for Prague. Although the boxer had promised him that he will  accompany him to Rushmore, it was clear that he had gone back on his word. People told him that the boxer had left in the white bus and had left him a note instructing him to kiss the girls before leaving the place. These were desperate hours for him, he collected all the kings men and  put on his Yves saint Laurent suit which he had bought from the saint laurent store. He had to do something before the rookie boxer did something stupid at a royal affair in prague. The veteran pusher had assured him that the corruptor will not bug him at the 25th hour, his eyes had swollen and become red, out of the red eye he saw the tenth man coming towards him with iron will. Desperate measures had to be adopted now or else he will lose a shot at glory, he was on the edge but still he decided to neglect his fracture and reach the city of his final destination. He assured himself by saying that it was for love of the game. The boxer was found dead in a doll's house the next day, the choir sang a chorus of disapproval, the hunt had begun
+
+<!-- It's all about patterns. First get 3, then get 1. -->

@@ -1,0 +1,54 @@
+.navbar-static-top {
+  margin-bottom: 19px;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+#password-alert {
+	display: none;
+}
+
+.level {
+	text-align: center;
+}
+
+#answer {
+	width: 50%;
+	text-align: center;
+}
+
+.answerform {
+	text-align: center;
+	margin: 0 auto;
+}
+
+.navbar-header a.navbar-brand {
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+.navbar-header a.navbar-brand img {
+	height: 50px;
+	width: auto;
+}
+
+.headingc {
+	text-align: center;
+	padding-bottom: 40px;
+	padding-top: 20px;
+}
+
+footer {
+	background-color: #222222;
+	color: #FFF;
+	text-align: center;
+	font-size: 12px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+footer img {
+	height: 60px;
+}
